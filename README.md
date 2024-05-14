@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, seja bem vindo! 👋
 
 <!--
 **jailtonmonteiro/jailtonmonteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jailtonmonteiro)](https://github.com/jailtonmonteiro/github-readme-stats)
+
+<a href="https://github.com/jailtonmonteiro/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jailtonmonteiro&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/jailtonmonteiro/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jailtonmonteiro&langs_count=5&theme=transparent&layout=donut" />
+</a>
