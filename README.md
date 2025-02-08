@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  ![Header](./profileGit.png)
+  ![Header](profileGit.png)
 </div>
 
 ###
