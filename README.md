@@ -1,12 +1,10 @@
 <br clear="both">
 
-<h1 align="left">Sejam Bem Vindos!</h1>
-
-###
-
 <div align="center">
   !<img height="200" src="profileGit.png"  />
 </div>
+
+<h1 align="left">Sejam Bem Vindos!</h1>
 
 ###
 
