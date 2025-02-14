@@ -1,7 +1,6 @@
 <br clear="both">
 
 <div align="center">
-  !<img height="200" src="profileGit.png"  />
 </div>
 
 <h1 align="left">Sejam Bem Vindos!</h1>
